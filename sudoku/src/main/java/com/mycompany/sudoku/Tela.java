@@ -29,7 +29,7 @@ public class Tela {
     public void menuJogadas(){
         System.out.println("############################################");
         System.out.println("|        Opcoes disponiveis:               |");
-        System.out.println("|        1. Adcionar jogada.               |");
+        System.out.println("|        1. Adicionar jogada.              |");
         System.out.println("|        2. Remover jogada.                |");
         System.out.println("|        3. Dica.                          |");
         System.out.println("|        4. Verificar condicao do jogo.    |");
