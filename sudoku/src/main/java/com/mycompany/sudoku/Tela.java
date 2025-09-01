@@ -32,8 +32,7 @@ public class Tela {
         System.out.println("|        1. Adicionar jogada.              |");
         System.out.println("|        2. Remover jogada.                |");
         System.out.println("|        3. Dica.                          |");
-        System.out.println("|        4. Verificar condicao do jogo.    |");
-        System.out.println("|        5. Finalizar o jogo.              |");
+        System.out.println("|        4. Finalizar o jogo.              |");
         System.out.println("############################################");
     }
     

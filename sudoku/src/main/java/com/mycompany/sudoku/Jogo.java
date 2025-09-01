@@ -63,7 +63,7 @@ public class Jogo{
             } 
             
             if (numSudoku >=0 && numSudoku <=20) { 
-                System.out.println("O seu jogo está sendo iniciado...  =) ");
+                System.out.println("O seu jogo esta sendo iniciado...  =) ");
                 tabSudoku.geraTabuleiroAleatorio(numSudoku); 
                 valido = true; 
             } 
@@ -95,9 +95,6 @@ public class Jogo{
                     dica();
                     break;
                 case 4:
-                    condicao();
-                    break;
-                case 5:
                     valido = false;
                     exibirTela.msgFinal();
                     break;
